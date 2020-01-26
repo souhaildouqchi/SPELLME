@@ -1,0 +1,5 @@
+Simo        : 200
+Tayeb      : 150
+Souhail    : 100
+Khalil      : 50
+0 0 
